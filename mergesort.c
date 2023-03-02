@@ -92,7 +92,7 @@ int main()
     
     mergeSort(arr, 0, n - 1);
 
-    printf(" Sorted array: ");
+    printf(" \nSorted array: ");
     printArray(arr, n);
     return 0;
 }
