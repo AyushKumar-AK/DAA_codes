@@ -60,3 +60,10 @@ int main()
     }
     return 0;
 }
+
+//output
+// Enter the number of elements:  5
+// Enter 5 elements:
+// 5 4 3 2 1
+// Unsorted array: 5 4 3 2 1
+// Sorted array: 1 2 3 4 5

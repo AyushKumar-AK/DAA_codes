@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "MATRIX.C": "cpp"
+        "MATRIX.C": "cpp",
+        "stdlib.h": "c"
     }
 }
