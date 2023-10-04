@@ -1,5 +1,5 @@
 //n queen preoblem 
-
+//optimized solution
 #include <stdio.h>
 #include <math.h>
 int board[20], count;
