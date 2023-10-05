@@ -1,4 +1,4 @@
-//Warshall implementation in c
+//Flyodd-Warshall implementation in c 
 
 #include <stdio.h>
 #include <stdlib.h>
