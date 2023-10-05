@@ -1,4 +1,4 @@
-//implement longest common subsequences
+//implement longest common subsequences in c
 
 #include <stdio.h>
 #include <stdlib.h>
